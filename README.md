@@ -1,4 +1,3 @@
-![PFDD003-DnD-D20-Pin](https://user-images.githubusercontent.com/44240533/222924590-abc65aeb-3cdf-44b5-ac45-fec2b64c1c06.jpg)
 
 # D&D Character
 
