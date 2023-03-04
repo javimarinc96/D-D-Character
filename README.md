@@ -1,5 +1,4 @@
-![PFDD003-DnD-D20-Pin](https://user-images.githubusercontent.com/44240533/222924945-b73e0b29-f421-400e-a6ea-94b077885afe.jpg)
-
+![dnd-character](https://user-images.githubusercontent.com/44240533/222924997-f3071dfd-f1a4-4973-b087-4ce8cbe38d99.svg)
 # D&D Character
 
 Welcome to D&D Character on Exercism's Java Track.
